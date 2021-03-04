@@ -9,12 +9,14 @@ To be public soon later.
 
 If you found this code or our work useful please cite us:
 
+```
 @article{huang2020mtlface,
   title={When Age-Invariant Face Recognition Meets Face Age Synthesis: A Multi-Task Learning Framework},
   author={Huang, Zhizhong and Zhang, Junping and Shan, Hongming},
   journal={CVPR},
   year={2021},
 }
+```
 
 ### Acknowledgement
 
