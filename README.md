@@ -3,7 +3,7 @@ This repository contains the PyTorch implementation and the dataset of the paper
 
 [arxiv](https://arxiv.org/abs/2103.01520)
 
-To be public soon later.
+To be public soon later (I am now trapped in many things, it would take me 1~2 weeks).
 
 ### Citation
 
