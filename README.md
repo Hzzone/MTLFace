@@ -50,10 +50,10 @@ If you want to train both tasks, please use apex.
 If you found this code or our work useful please cite us:
 
 ```
-@article{huang2020mtlface,
+@inproceedings{huang2020mtlface,
   title={When Age-Invariant Face Recognition Meets Face Age Synthesis: A Multi-Task Learning Framework},
   author={Huang, Zhizhong and Zhang, Junping and Shan, Hongming},
-  journal={CVPR},
+  booktitle={CVPR},
   year={2021},
 }
 ```
