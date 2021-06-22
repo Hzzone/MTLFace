@@ -17,7 +17,7 @@ This repository contains the PyTorch implementation and the dataset of the paper
 python convert_insightface.py --source /home/zzhuang/faces_webface_112x112 --dest /home/zzhuang/casia-webface-112x112-arcface
 python convert_insightface.py --bin --source /home/zzhuang/faces_webface_112x112/agedb_30.bin --dest /home/zzhuang/arcface-test-set
 ```
-3. Downloading the annotations from [Google Drive](https://drive.google.com/drive/folders/1YmaBkHoRt85cysQX2TJZmasRwfrchiWO) or [BaiduDisk](https://pan.baidu.com/s/1_9rrxOyicTxzLeoCMmnE5g) with password `iljn`, which is organized by `id filename age gender`; 1 for male and 0 for female.
+3. Downloading the annotations from Google Drive: https://drive.google.com/drive/folders/1YmaBkHoRt85cysQX2TJZmasRwfrchiWO or BaiduDisk: https://pan.baidu.com/s/1_9rrxOyicTxzLeoCMmnE5g with password `iljn`, which is organized by `id filename age gender`; 1 for male and 0 for female.
 
 4. Putting the dataset and annotations into the dataset folder.
 
