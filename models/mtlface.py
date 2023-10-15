@@ -64,7 +64,7 @@ class MTLFace(object):
         parser.add_argument("--learning_rate", help='learning-rate', type=float, default=0.1)
 
         # TRAINING
-        parser.add_argument("--dataset_name", "-d", help='input image size', type=str)
+        parser.add_argument("--dataset_name", "-d", help='name of dataset to train with', type=str)
         parser.add_argument("--image_size", help='input image size', default=224, type=int)
         parser.add_argument("--num_iter", help='total epochs', type=int, default=125)
         parser.add_argument("--restore_iter", help='restore_iter', default=0, type=int)
